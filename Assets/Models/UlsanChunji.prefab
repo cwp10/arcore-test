@@ -19,6 +19,7 @@ GameObject:
   serializedVersion: 5
   m_Component:
   - component: {fileID: 4896776094083310}
+  - component: {fileID: 114169021419357086}
   m_Layer: 0
   m_Name: UlsanChunji
   m_TagString: Untagged
@@ -129,3 +130,14 @@ Animator:
   m_WarningMessage: 
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
+--- !u!114 &114169021419357086
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1018192002817778}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d3296c1f39fd4340a9b05859cca1d13, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
